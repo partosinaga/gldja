@@ -37,8 +37,8 @@
       <file leaf-file-name="Jv.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/jv/Jv.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.0749698">
-              <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.13301088">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <marker date="1537345065497" expanded="true" signature="4317:4422" placeholder="..." />
                 <marker date="1537345065497" expanded="true" signature="4547:5112" placeholder="..." />
@@ -885,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/jv/Jv.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0749698">
-          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.13301088">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <marker date="1537345065497" expanded="true" signature="4317:4422" placeholder="..." />
             <marker date="1537345065497" expanded="true" signature="4547:5112" placeholder="..." />
